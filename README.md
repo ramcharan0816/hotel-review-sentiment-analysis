@@ -1,2 +1,6 @@
-# HotelReviewSentimentAnalysis-using-NLP
-Hotel Reviews Sentiment Analysis is an NLP-based Python project that classifies customer reviews as positive or negative. It preprocesses text, applies TF-IDF vectorization, and trains a machine learning model to analyze sentiment, helping businesses understand customer satisfaction and improve service quality.
+Hotel Reviews Sentiment Analysis using NLP & Python
+
+This project focuses on analyzing hotel customer reviews to determine whether the feedback is positive or negative using Natural Language Processing (NLP) techniques and Machine Learning. The system processes raw textual reviews, cleans and transforms the text data, and applies classification algorithms to automatically predict sentiment.
+The workflow begins with data preprocessing, including removal of punctuation, lowercasing, stopword removal, and token normalization to improve text quality. The cleaned reviews are then converted into numerical features using TF-IDF vectorization, enabling machine learning models to interpret textual patterns.
+A sentiment label is generated based on review ratings, where higher ratings represent positive sentiment and lower ratings represent negative sentiment. The processed data is used to train a classification model such as Logistic Regression, which learns patterns associated with customer satisfaction and dissatisfaction.
+The model is evaluated using accuracy metrics and classification reports to measure performance. This project demonstrates how NLP can be used to extract meaningful insights from customer feedback and can be extended for real-world applications such as reputation monitoring, customer experience analysis, and business decision support
