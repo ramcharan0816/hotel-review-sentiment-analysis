@@ -1,0 +1,146 @@
+Review,Rating
+"The room was spacious and very clean",5
+"Excellent service and very polite staff",5
+"Rooms are not cleaned properly",3
+"Comfortable bed and peaceful environment",4
+"There is no availability of Hot water ",2
+"Rooms were neat and well maintained",4
+"Staff were friendly and helpful",5
+"Breakfast was delicious and fresh",5
+"I loved the swimming pool area",4
+"Quick check-in and smooth service",5
+"The stay was pleasant and relaxing",4
+"Wonderful hospitality and great service",5
+"Very clean bathroom and fresh towels",4
+"Nice ambience and modern interiors",5
+"The food quality was excellent",5
+"Room service was fast and efficient",4
+"Great experience overall",5
+"Everything was well organized",4
+"Perfect place for family stay",5
+"I enjoyed my stay very much",5
+"Dirty room and unpleasant smell",1
+"The bathroom was not clean",1
+"Terrible service and rude staff",1
+"Food was cold and tasteless",2
+"The bed sheets were stained",1
+"Very noisy environment at night",2
+"I had a horrible experience",1
+"Room was small and uncomfortable",2
+"Air conditioner was not working",1
+"Poor maintenance and broken furniture",1
+"The room smelled bad",1
+"Staff ignored our complaints",2
+"Slow room service and delays",2
+"Unhygienic bathroom conditions",1
+"Very disappointing stay",1
+"Water leakage in the bathroom",1
+"The food quality was very poor",2
+"No proper cleaning was done",1
+"The hotel looked old and dirty",1
+"Bad experience overall",1
+"Comfortable stay with friendly staff",5
+"Nice rooms and good cleanliness",4
+"Food was tasty and well prepared",5
+"Excellent hospitality and care",5
+"Great location near tourist places",4
+"Room was clean and cozy",4
+"Staff responded quickly",5
+"Enjoyed the peaceful surroundings",4
+"Very neat and hygienic rooms",5
+"Service exceeded expectations",5
+"The hotel atmosphere was relaxing",4
+"Warm welcome and smooth check-in",5
+"Housekeeping did a great job",5
+"The lighting and interiors were nice",4
+"Everything was perfect",5
+"Staff were very cooperative",5
+"Neat rooms and fresh linens",4
+"The stay was comfortable",4
+"Very pleasant experience",5
+"I would definitely visit again",5
+"Room smelled of smoke",1
+"Dirty carpets and dusty furniture",1
+"Broken bathroom fittings",1
+"Very rude receptionist",1
+"The room was not ready on arrival",2
+"Uncomfortable pillows and hard bed",2
+"No hot water available",1
+"Food tasted stale",1
+"Terrible cleanliness standards",1
+"Staff behavior was unacceptable",1
+"Unpleasant odor in hallway",1
+"Delayed check-in process",2
+"Noisy air conditioner",2
+"The curtains were dirty",1
+"Very poor lighting in room",2
+"Unclean bedsheets",1
+"Worst stay ever",1
+"I regret booking this hotel",1
+"Bad smell throughout the hotel",1
+"Clean and spacious room",5
+"Friendly staff and quick service",5
+"Very good food and dining service",5
+"Rooms were bright and comfortable",4
+"Enjoyed the luxurious stay",5
+"Peaceful environment and clean air",4
+"Bathroom was spotless",5
+"Hotel was well maintained",4
+"Staff were professional and polite",5
+"Overall fantastic experience",5
+"No cleanliness and rude behaviour of staff",2
+"Great value for money",5
+"Perfect place for a weekend getaway",5
+"The elevator was dirty and slow",1
+"The staff were unprofessional",1
+"The room had insects and bugs",1
+"Air conditioning made loud noise",2
+"The bathroom sink was leaking",1
+"The bedsheets were not changed",1
+"Poor hygiene and dusty tables",1
+"No proper lighting in corridors",2
+"The room felt damp and smelly",1
+"Very uncomfortable stay overall",1
+"Fantastic breakfast with many options",5
+"Very clean swimming pool",5
+"The staff guided us well",4
+"Rooms were quiet and relaxing",5
+"Comfortable pillows and soft blankets",4
+"Modern rooms with good lighting",5
+"Comfortable pillows and soft blankets",4
+"Modern rooms with good lighting",5
+"Prompt service and friendly reception",5
+"The hotel security was reassuring",4
+"Enjoyed the calm and peaceful environment",5
+"Everything was tidy and well arranged",5
+"Reception staff were very rude",1
+"The parking area was dirty",1
+"Very slow WiFi connection",2
+"The television was not working",1
+"The food service was delayed",2
+"The minibar was empty and dusty",1
+"The balcony door was jammed",1
+"The towels had stains on them",1
+"The shower pressure was very weak",2
+"The hallway smelled like smoke",1
+"The air inside the room felt suffocating",1
+"The curtains were torn and old",1
+"The welcome drink was refreshing and tasty",5
+"The spa services were relaxing and professional",5
+"The conference hall was well equipped",4
+"The kids play area was safe and fun",5
+"The check-out process was quick and smooth",5
+"The receptionist ignored us for several minutes",1
+"The elevator buttons were not functioning",1
+"The parking space was insufficient",2
+"The restaurant tables were not clean",1
+"The room had poor ventilation",1
+"The blankets felt rough and uncomfortable",2
+"The hot water supply was inconsistent",2
+"The walls were thin and noise traveled easily",2
+"The floor was dusty upon arrival",1
+"The mattress quality ensured deep sleep",5
+"The room temperature control worked perfectly",4
+"The hotel arranged transport promptly",5
+"The breakfast buffet had diverse options",5
+"The staff handled our requests efficiently",5
